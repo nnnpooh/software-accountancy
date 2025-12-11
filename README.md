@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Lecture VDOs](#)
+- [Lecture VDOs](https://www.youtube.com/playlist?list=PLNGLpHQhvGruDfUp71n3_R6LGR47IzZN8)
 
 ## Introduction to ERPNext
 
