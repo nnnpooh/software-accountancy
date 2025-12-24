@@ -18,3 +18,8 @@
 
 - [HTML](./src/T03_sales_and_purchases/T03.html)
 - [PDF](./src/T03_sales_and_purchases/T03.pdf)
+
+## Inventory and Manufacturing Module
+
+- [HTML](./src/T04_stock_and_manufacturing/T04.html)
+- [PDF](./src/T04_stock_and_manufacturing/T04.pdf)
