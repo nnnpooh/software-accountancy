@@ -10,6 +10,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T04_stock_and_manufacturing"
+# $folder = "src\T04_stock_and_manufacturing"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T06_project"
 npm run html $folder
 npm run pdf $folder

@@ -23,3 +23,8 @@
 
 - [HTML](./src/T04_stock_and_manufacturing/T04.html)
 - [PDF](./src/T04_stock_and_manufacturing/T04.pdf)
+
+## Project
+
+- [HTML](./src/T06_project/T06.html)
+- [PDF](./src/T06_project/T06.pdf)
