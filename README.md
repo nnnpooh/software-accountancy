@@ -24,6 +24,10 @@
 - [HTML](./src/T04_stock_and_manufacturing/T04.html)
 - [PDF](./src/T04_stock_and_manufacturing/T04.pdf)
 
+## HRMS Module
+
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/6S5KoiNlCsJ)
+
 ## Project
 
 - [HTML](./src/T06_project/T06.html)
